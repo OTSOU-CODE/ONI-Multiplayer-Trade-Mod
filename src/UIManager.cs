@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 using HarmonyLib;
 using UnityEngine;
 
@@ -26,7 +26,7 @@ namespace MultiplayerTradeMod
             if (root == null)
             {
                 root = new GameObject("MultiplayerManagers");
-                Object.DontDestroyOnLoad(root);
+                UnityEngine.Object.DontDestroyOnLoad(root);
             }
 
             EnsureComponent<UIManager>(root);
@@ -126,7 +126,7 @@ namespace MultiplayerTradeMod
             if (MultiplayerLobbyScreen.Instance == null)
             {
                 GameObject go = new GameObject("MultiplayerLobbyScreen");
-                Object.DontDestroyOnLoad(go);
+                UnityEngine.Object.DontDestroyOnLoad(go);
                 go.AddComponent<MultiplayerLobbyScreen>();
             }
             else
@@ -164,7 +164,7 @@ namespace MultiplayerTradeMod
 
         private static void EnsureSingletonObject<T>(string objectName) where T : Component
         {
-            T instance = Object.FindObjectOfType<T>();
+            T instance = UnityEngine.Object.FindObjectOfType<T>();
             if (instance != null)
                 return;
 
@@ -175,7 +175,7 @@ namespace MultiplayerTradeMod
             if (go.GetComponent<T>() == null)
                 go.AddComponent<T>();
 
-            Object.DontDestroyOnLoad(go);
+            UnityEngine.Object.DontDestroyOnLoad(go);
         }
     }
 
@@ -188,3 +188,5 @@ namespace MultiplayerTradeMod
         }
     }
 }
+
+

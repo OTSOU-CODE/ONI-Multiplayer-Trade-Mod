@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System;
 using System.IO;
 using System.Diagnostics;
@@ -18,15 +18,15 @@ namespace MultiplayerTradeMod
         private string _playitPath;
         private Process _process;
         private Thread _downloadThread;
-        private readonly ConcurrentQueue<Action> _mainThreadActions = new ConcurrentQueue<Action>();
+        private readonly ConcurrentQueue<System.Action> _mainThreadActions = new ConcurrentQueue<System.Action>();
 
         public bool IsRunning { get; private set; }
         public bool IsDownloading { get; private set; }
         public string PublicAddress { get; private set; } = string.Empty;
         public string ClaimLink { get; private set; } = string.Empty;
 
-        public Action<string> OnPlayitOutput;
-        public Action<string> OnAddressFound;
+        public System.Action<string> OnPlayitOutput;
+        public System.Action<string> OnAddressFound;
 
         private void Awake()
         {
@@ -45,7 +45,7 @@ namespace MultiplayerTradeMod
 
         private void Update()
         {
-            while (_mainThreadActions.TryDequeue(out Action action))
+            while (_mainThreadActions.TryDequeue(out System.Action action))
             {
                 try
                 {
@@ -224,3 +224,5 @@ namespace MultiplayerTradeMod
         }
     }
 }
+
+

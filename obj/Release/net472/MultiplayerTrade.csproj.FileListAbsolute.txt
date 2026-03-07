@@ -12,3 +12,5 @@ C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included - Copy\Multiplayer 
 C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included - Copy\Multiplayer Trade Mod\obj\Release\net472\MultiplayerTrade.csproj.CoreCompileInputs.cache
 C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included - Copy\Multiplayer Trade Mod\obj\Release\net472\MultiplayerTrade.dll
 C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included - Copy\Multiplayer Trade Mod\obj\Release\net472\MultiplayerTrade.pdb
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included - Copy\Multiplayer Trade Mod\bin\Release\net472\MultiplayerTrade.dll
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included - Copy\Multiplayer Trade Mod\bin\Release\net472\MultiplayerTrade.pdb

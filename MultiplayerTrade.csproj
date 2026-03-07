@@ -10,67 +10,68 @@
 
   <ItemGroup>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Assembly-CSharp.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Assembly-CSharp-firstpass">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Assembly-CSharp-firstpass.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="0Harmony">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\0Harmony.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\0Harmony.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Newtonsoft.Json.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Newtonsoft.Json.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.AssetBundleModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.InputLegacyModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.InputLegacyModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.UI.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.UI.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.UIModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.UIModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.UIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.TextRenderingModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\Unity.TextMeshPro.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="com.rlabrecque.steamworks.net">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\com.rlabrecque.steamworks.net.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\com.rlabrecque.steamworks.net.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.IMGUIModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>..\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>C:\Games\Oxygen.Not.Included.v622222.ALL.DLC\OxygenNotIncluded_Data\Managed\UnityEngine.ImageConversionModule.dll</HintPath>
       <Private>False</Private>
     </Reference>
   </ItemGroup>
 
 </Project>
+
