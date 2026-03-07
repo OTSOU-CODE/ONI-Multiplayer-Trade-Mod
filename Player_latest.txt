@@ -1,0 +1,60 @@
+﻿[21:12:13.905] [1] [INFO] Loading save file: C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded\cloud_save_files\76561197960271872\Factory\Factory.sav
+ headerVersion:1, buildVersion:622222, headerSize:362, IsCompressed:True
+[21:12:13.905] [1] [INFO] GameInfo loaded from save header:
+  numberOfCycles:0,
+  numberOfDuplicants:3,
+  baseName:Factory,
+  isAutoSave:False,
+  originalSaveName:Factory.sav,
+  clusterId:expansion1::clusters/VanillaSandstoneCluster,
+  worldTraits:<i>none</i>,
+  colonyGuid:961328b9-ab27-41ac-b3fc-1c1d9e206fd3,
+  saveVersion:7.34
+[21:12:14.267] [1] [INFO] Mod Footprint (1):
+  - ONI Multiplayer Trade
+[21:12:14.267] [1] [INFO] Active Mods (1):
+  - ONI Multiplayer Trade
+[21:12:14.508] [1] [INFO] 69.17658 Level Loaded.... backend
+Shader warmup: 74 shaders 325 combinations 0.102s
+[21:12:15.859] [1] [INFO] [Multiplayer Trade Mod] TCP Network Manager initialized.
+[21:12:16.909] [1] [INFO] SAVEINFO
+[21:12:16.909] [1] [INFO]  - Generated: Tuesday, 03 March 2026 14:03:27
+[21:12:16.909] [1] [INFO]  - Played on: 622222
+[21:12:16.909] [1] [INFO]  - Debug was used: False
+[21:12:16.910] [1] [INFO] Custom Settings: ClusterLayout=expansion1::clusters/VanillaSandstoneCluster,WorldgenSeed=660715120,ImmuneSystem=Default,CalorieBurn=Default,Morale=Default,Durability=Default,MeteorShowers=Default,Radiation=Default,Stress=Default,StressBreaks=Default,CarePackages=Enabled,SandboxMode=Disabled,FastWorkersMode=Disabled,SaveToCloud=Enabled,Teleporters=Enabled,
+[21:12:16.910] [1] [INFO] Story Settings: MegaBrainTank=Disabled,CreatureManipulator=Disabled,LonelyMinion=Disabled,FossilHunt=Disabled,MorbRoverMaker=Disabled,
+[21:12:16.910] [1] [INFO] Mixing Settings: DLC2_ID=Enabled,IceCavesMixing=Disabled,CarrotQuarryMixing=Disabled,SugarWoodsMixing=Disabled,CeresAsteroidMixing=Disabled,
+[21:12:17.368] [1] [INFO] Loaded [C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded\cloud_save_files\76561197960271872\Factory\Factory.sav]
+[21:12:17.368] [1] [INFO] World Seeds [660715127/660715127/660715127/660715127]
+[21:12:17.485] [1] [INFO] -- GAME --
+[21:12:17.486] [1] [INFO] [InterfaceTool] Initializing configs with values of DefaultKey: Invalid Configs: 3
+[21:12:17.491] [1] [INFO] [InterfaceTool] Pushing config with key: Invalid
+[21:12:17.569] [1] [WARNING] True Timelapse.OnNewDay but worldsToScreenshot is not empty
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+Can't add component 'RectTransform' to T because such a component is already added to the game object!
+[21:12:20.649] [1] [INFO] Checking which steam branch we're on. Got: []
+[21:12:20.876] [1] [WARNING] world Asteroid has invalid season VanillaSandstoneDefaultMeteorShowers
+[21:12:20.879] [1] [WARNING] world Asteroid has invalid season MediumRadioactiveVanillaWarpPlanetMeteorShowers
+FalseFalseFalseFalse[21:12:27.945] [1] [WARNING] artifacts_kanim ui placeSymbol [ ui ] is missing
+[21:12:28.619] [1] [INFO] Screen resolution updated, saving values to prefs: 1920x1080 @ 60, fullscreen: True
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 211755.
+Total: 1188.500500 ms (FindLiveObjects: 23.421200 ms CreateObjectMapping: 22.489900 ms MarkObjects: 1142.079900 ms  DeleteObjects: 0.509000 ms)
+
+<RI.Hid> Failed to create device file:
+ 2 The system cannot find the file specified.
+Can't add component 'RectTransform' to T because such a component is already added to the game object!
+Can't add component 'RectTransform' to T because such a component is already added to the game object!
+[21:13:11.107] [1] [INFO] [Multiplayer Trade Mod] Opening lobby screen.
+[21:13:15.795] [1] [INFO] [Multiplayer] Server listening on port 8888
+[21:13:15.797] [1] [INFO] [Multiplayer Notification] Hosting on port 8888.
+[21:13:25.571] [1] [INFO] [Multiplayer Notification] Connection failed: No connection could be made because the target machine actively refused it.
+[21:13:32.611] [1] [INFO] [Multiplayer Notification] Connection failed: No connection could be made because the target machine actively refused it.
+[21:13:32.897] [1] [INFO] [Multiplayer Notification] Connection failed: Object reference not set to an instance of an object
+[21:13:34.946] [1] [INFO] [Multiplayer Notification] Connection failed: No connection could be made because the target machine actively refused it.
+[21:13:37.726] [1] [INFO] [Multiplayer Notification] Connection failed: Object reference not set to an instance of an object
+[21:13:40.109] [1] [INFO] [Multiplayer Notification] Connection failed: Object reference not set to an instance of an object
+[21:13:41.209] [1] [INFO] [Multiplayer] Server listening on port 7777
+[21:13:41.210] [1] [INFO] [Multiplayer Notification] Hosting on port 7777.
+[21:13:41.214] [1] [INFO] [Multiplayer Notification] Connection failed: Object reference not set to an instance of an object
+[21:13:43.826] [1] [INFO] [Multiplayer Notification] Connection failed: No connection could be made because the target machine actively refused it.

@@ -1,0 +1,7 @@
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\obj\Debug\net472\MultiplayerTrade.csproj.AssemblyReference.cache
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\obj\Debug\net472\MultiplayerTrade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\obj\Debug\net472\MultiplayerTrade.csproj.CoreCompileInputs.cache
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\bin\Debug\net472\MultiplayerTrade.dll
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\bin\Debug\net472\MultiplayerTrade.pdb
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\obj\Debug\net472\MultiplayerTrade.dll
+C:\Users\ELECTRO-RIMO\Desktop\Games Mods\Oxygen Not Included\Multiplayer Trade Mod\obj\Debug\net472\MultiplayerTrade.pdb

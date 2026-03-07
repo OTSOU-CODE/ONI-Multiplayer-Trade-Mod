@@ -1,0 +1,189 @@
+Mono path[0] = 'C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Managed'
+Mono config path = 'C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/MonoBleedingEdge/etc'
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/lib/usr/lib/libSystem.dylib.dll
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/lib/usr/lib/libSystem.dylib
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/libc.so.6.dll
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/libc.so.6
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/data-000001D6EE7940F0.dll
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/data-000001D6F382E040.dll
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e9b)
+    Vendor:   
+    VRAM:     8098 MB
+    Driver:   31.0.101.2137
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.156 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 11.840100 ms
+[Message:   BepInEx] BepInEx 5.4.23.2 - OxygenNotIncluded (2/25/2026 10:20:13 PM)
+[Info   :   BepInEx] Running under Unity v2020.3.30.2077119
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Infinite Storage 1.0.0]
+[Info   :Infinite Storage] Infinite Storage mod loaded! All storage capacities set to 1,000,000 kg.
+[Message:   BepInEx] Chainloader startup complete
+[22:25:01.199] [1] [INFO] KProfiler: Start
+[22:25:01.539] [1] [INFO] Applying resolution 1920x1080 @60hz (fullscreen: True)
+[22:25:01.539] [1] [INFO] Low Res Textures? Yes
+[22:25:01.545] [1] [INFO] Date: 03/04/2026 22:25:01
+[22:25:01.546] [1] [INFO] Build: ??-622222-? (release)
+[22:25:01.548] [1] [INFO] Creating SteamManager.
+[22:25:03.869] [1] [INFO] DistributionPlatform initialized.
+[22:25:03.869] [1] [INFO] -----------------------------------------------------------
+[22:25:03.883] [1] [INFO] Build: U52-622222-SC (release)
+[22:25:03.883] [1] [INFO] -----------------------------------------------------------
+[22:25:03.883] [1] [INFO] DLC Information
+[22:25:03.891] [1] [INFO] - DLC2_ID loaded: True
+[22:25:03.891] [1] [INFO] - EXPANSION1_ID loaded: True
+[22:25:03.891] [1] [INFO] -----------------------------------------------------------
+[22:25:09.507] [1] [INFO] Loading Expansion1 assets from bundle
+[22:25:16.819] [1] [INFO] Loading DLC DLC2_ID assets from bundle
+SYSTEM INFO:
+    Platform=WindowsPlayer
+    OSname=Windows 11  (10.0.26200) 64bit
+    OSversion=10.0.26200.0
+    CPUmodel=Latitude 5401 (Dell Inc.)
+    CPUdeviceType=Desktop
+    CPUarch=AMD64
+    ProcBits=64
+    CPUcount=8
+    CPUtype=Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+    SystemMemoryMegs=16197
+    GPUgraphicsDeviceID=16027
+    GPUname=Intel(R) UHD Graphics 630
+    GPUgraphicsDeviceType=Direct3D11
+    GPUgraphicsDeviceVendor=Intel
+    GPUgraphicsDeviceVendorID=32902
+    GPUgraphicsDeviceVersion=Direct3D 11.0 [level 11.1]
+    GPUmemoryMegs=8098
+    GPUgraphicsMultiThreaded=False
+    GPUgraphicsShaderLevel=50
+    GPUmaxTextureSize=16384
+    GPUnpotSupport=Full
+    GPUsupportedRenderTargetCount=8
+    GPUsupports2DArrayTextures=True
+    GPUsupports3DTextures=True
+    GPUsupportsComputeShaders=True
+    GPUsupportsImageEffects=True
+    GPUsupportsInstancing=True
+    GPUsupportsRenderToCubemap=True
+    GPUsupportsShadows=True
+    GPUsupportsSparseTextures=True
+    GPUcopyTextureSupport=Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+    System Language=English
+[22:25:18.471] [1] [INFO] Initializing at 2026-03-04 22:25:18.471
+[22:25:18.472] [1] [INFO] Save path: C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded
+[22:25:19.643] [1] [INFO] 	ONI Multiplayer Trade has a mod.yaml with a staticID `MultiplayerTrade`, using that from now on.
+[22:25:19.655] [1] [INFO] ONI Multiplayer Trade: Successfully loaded from path 'root' with content 'DLL'.
+[22:25:19.655] [1] [INFO] Using builtin mod system.
+[22:25:19.657] [1] [INFO] Loading mod content DLL [ONI Multiplayer Trade:MultiplayerTrade] (provides DLL)
+[22:25:19.660] [1] [INFO] Loading MOD dll: MultiplayerTrade.dll
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/data-000001D834D23670.dll
+[MultiplayerTrade] Notice: Mirror.dll not found in the mod folder. Please place it in the same directory to enable networking functionality.
+[MultiplayerTrade] Mod loaded, configuration parsed.
+[22:25:20.133] [1] [INFO] Localization.Initialize!
+[22:25:20.141] [1] [INFO] 	ONI Multiplayer Trade has a mod.yaml with a staticID `MultiplayerTrade`, using that from now on.
+[22:25:20.145] [1] [INFO] ONI Multiplayer Trade: Successfully loaded from path 'root' with content 'DLL'.
+[22:25:20.145] [1] [INFO] Subscribe to mod ONI Multiplayer Trade
+[22:25:20.173] [1] [INFO] Test Data Location / docs / C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded
+[22:25:20.174] [1] [INFO] Test Data Location / local / C:\Users\ELECTRO-RIMO\AppData\Local\Klei\OxygenNotIncluded
+[22:25:20.180] [1] [INFO] Test Data Locations / C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded\test / write True / read True / removed True
+[22:25:20.180] [1] [INFO] Test Data Locations / C:\Users\ELECTRO-RIMO\AppData\Local\Klei\OxygenNotIncluded\test / write True / read True / removed True
+[22:25:20.183] [1] [INFO] Logged into Steam with ID:76561197960271872, NAME:PLAYER
+[22:25:20.183] [1] [INFO] [Account] Requesting auth ticket from Steam
+[22:25:21.633] [8] [INFO] [Account] Error logging in: {"SecurityTxt":"https://www.klei.com/.well-known/security.txt","ErrorCode":"E_INVALID_TICKET","Error":true,"Token":"","UserID":"","AnalyticsJWT":""}
+ for ticket=575553210000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[22:25:29.610] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: DebugPlacer
+[22:25:29.610] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: DebugPlacer
+[22:25:38.228] [6] [INFO] World settings reload complete!
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 5595 unused Assets to reduce memory usage. Loaded Objects now: 71110.
+Total: 293.399100 ms (FindLiveObjects: 4.804000 ms CreateObjectMapping: 5.298800 ms MarkObjects: 279.197500 ms  DeleteObjects: 4.098400 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.540500 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 74972.
+Total: 297.403300 ms (FindLiveObjects: 5.403400 ms CreateObjectMapping: 3.376500 ms MarkObjects: 288.345600 ms  DeleteObjects: 0.277000 ms)
+
+[22:25:42.783] [1] [INFO] -- MAIN MENU -- 
+[22:25:43.048] [1] [INFO] Checking which steam branch we're on. Got: []
+[22:25:43.286] [1] [INFO] Screen resolution updated, saving values to prefs: 1920x1080 @ 60, fullscreen: True
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 74963.
+Total: 262.337400 ms (FindLiveObjects: 6.013200 ms CreateObjectMapping: 3.585500 ms MarkObjects: 252.587600 ms  DeleteObjects: 0.150500 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 5.610600 ms
+
+Unloading 93 unused Assets to reduce memory usage. Loaded Objects now: 95345.
+Total: 347.785700 ms (FindLiveObjects: 5.820000 ms CreateObjectMapping: 9.884200 ms MarkObjects: 331.804700 ms  DeleteObjects: 0.276300 ms)
+
+[22:25:50.804] [1] [INFO] Loading save file: C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded\cloud_save_files\76561197960271872\Factory\Factory.sav
+ headerVersion:1, buildVersion:622222, headerSize:362, IsCompressed:True
+[22:25:50.804] [1] [INFO] GameInfo loaded from save header:
+  numberOfCycles:0,
+  numberOfDuplicants:3,
+  baseName:Factory,
+  isAutoSave:False,
+  originalSaveName:Factory.sav,
+  clusterId:expansion1::clusters/VanillaSandstoneCluster,
+  worldTraits:<i>none</i>,
+  colonyGuid:961328b9-ab27-41ac-b3fc-1c1d9e206fd3,
+  saveVersion:7.34
+[22:25:51.283] [1] [INFO] Mod Footprint (1):
+  - ONI Multiplayer Trade
+[22:25:51.283] [1] [INFO] Active Mods (1):
+  - ONI Multiplayer Trade
+[22:26:12.466] [1] [INFO] 74.20048 Level Loaded.... backend
+Shader warmup: 74 shaders 325 combinations 0.145s
+[22:26:18.353] [1] [INFO] SAVEINFO
+[22:26:18.353] [1] [INFO]  - Generated: Tuesday, 03 March 2026 14:03:27
+[22:26:18.355] [1] [INFO]  - Played on: 622222
+[22:26:18.355] [1] [INFO]  - Debug was used: False
+[22:26:18.356] [1] [INFO] Custom Settings: ClusterLayout=expansion1::clusters/VanillaSandstoneCluster,WorldgenSeed=660715120,ImmuneSystem=Default,CalorieBurn=Default,Morale=Default,Durability=Default,MeteorShowers=Default,Radiation=Default,Stress=Default,StressBreaks=Default,CarePackages=Enabled,SandboxMode=Disabled,FastWorkersMode=Disabled,SaveToCloud=Enabled,Teleporters=Enabled,
+[22:26:18.356] [1] [INFO] Story Settings: MegaBrainTank=Disabled,CreatureManipulator=Disabled,LonelyMinion=Disabled,FossilHunt=Disabled,MorbRoverMaker=Disabled,
+[22:26:18.356] [1] [INFO] Mixing Settings: DLC2_ID=Enabled,IceCavesMixing=Disabled,CarrotQuarryMixing=Disabled,SugarWoodsMixing=Disabled,CeresAsteroidMixing=Disabled,
+[22:26:19.003] [1] [INFO] Loaded [C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded\cloud_save_files\76561197960271872\Factory\Factory.sav]
+[22:26:19.003] [1] [INFO] World Seeds [660715127/660715127/660715127/660715127]
+[22:26:19.193] [1] [INFO] -- GAME --
+[22:26:19.196] [1] [INFO] [InterfaceTool] Initializing configs with values of DefaultKey: Invalid Configs: 3
+[22:26:19.201] [1] [INFO] [InterfaceTool] Pushing config with key: Invalid
+[22:26:19.348] [1] [WARNING] True Timelapse.OnNewDay but worldsToScreenshot is not empty
+Unloading 0 Unused Serialized files (Serialized files now loaded: 2)
+[22:26:25.437] [1] [INFO] Checking which steam branch we're on. Got: []
+[22:26:25.708] [1] [WARNING] world Asteroid has invalid season VanillaSandstoneDefaultMeteorShowers
+[22:26:25.715] [1] [WARNING] world Asteroid has invalid season MediumRadioactiveVanillaWarpPlanetMeteorShowers
+FalseFalseFalseFalse[22:26:32.345] [1] [WARNING] artifacts_kanim ui placeSymbol [ ui ] is missing
+[22:26:33.190] [1] [INFO] Screen resolution updated, saving values to prefs: 1920x1080 @ 60, fullscreen: True
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 211668.
+Total: 1303.217500 ms (FindLiveObjects: 40.633200 ms CreateObjectMapping: 17.139300 ms MarkObjects: 1244.878900 ms  DeleteObjects: 0.565400 ms)
+
+[22:26:43.790] [1] [INFO] [Multiplayer] Opening multiplayer lobby screen.
+[22:26:44.838] [1] [INFO] [Multiplayer] Host Clicked! Preparing Server...
+[22:26:47.140] [1] [INFO] [Multiplayer] Opening multiplayer lobby screen.
+[22:26:50.051] [1] [INFO] [Multiplayer] Host Clicked! Preparing Server...
+[22:27:05.070] [1] [INFO] [Multiplayer] Opening multiplayer lobby screen.
+[22:27:05.988] [1] [INFO] [Multiplayer] Join Clicked! Connecting Client...
+[22:27:07.069] [1] [INFO] [Multiplayer] Opening multiplayer lobby screen.
+[22:27:09.588] [1] [INFO] [Multiplayer] Join Clicked! Connecting Client...

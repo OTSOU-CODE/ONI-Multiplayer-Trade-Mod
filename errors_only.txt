@@ -1,0 +1,51 @@
+﻿
+[14:31:04.071] [8] [INFO] 
+[Account] Error logging in: {"S
+ecurityTxt":"https://www.klei.c
+om/.well-known/security.txt","E
+rrorCode":"E_INVALID_TICKET","E
+rror":true,"Token":"","UserID":
+"","AnalyticsJWT":""}
+[14:31:17.507] [1] [ERROR] 
+First anim file needs to be 
+non-null. InterplanetaryTradeMa
+chineComplete 
+(UnityEngine.GameObject)
+[14:31:17.518] [1] [ERROR] 
+null Exception in 
+RegisterBuilding for type Multi
+playerTradeMod.TradeMachineConf
+ig from MultiplayerTrade 
+System.NullReferenceException: 
+Object reference not set to an 
+instance of an object
+Exception in RegisterBuilding 
+for type MultiplayerTradeMod.Tr
+adeMachineConfig from 
+MultiplayerTrade 
+System.NullReferenceException: 
+Object reference not set to an 
+instance of an object
+[14:31:27.676] [7] [ERROR] 
+Fatal parse error in C:/Games/O
+xygen.Not.Included.v622222.ALL.
+DLC/OxygenNotIncluded_Data/Stre
+amingAssets/dlc/expansion1/temp
+lates/poi/rust/dirty_slush_geys
+er.yaml
+(Line: 80, Col: 3, Idx: 1503) 
+- (Line: 80, Col: 3, Idx: 
+1503): Exception during 
+deserialization
+Fatal parse error in C:/Games/O
+xygen.Not.Included.v622222.ALL.
+DLC/OxygenNotIncluded_Data/Stre
+amingAssets/dlc/expansion1/temp
+lates/poi/rust/dirty_slush_geys
+er.yaml
+(Line: 80, Col: 3, Idx: 1503) 
+- (Line: 80, Col: 3, Idx: 
+1503): Exception during 
+deserialization
+
+

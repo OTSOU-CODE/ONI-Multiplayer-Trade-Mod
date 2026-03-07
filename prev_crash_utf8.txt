@@ -1,0 +1,150 @@
+﻿Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/data-00000286FB073040.dll
+Initialize engine version: 2020.3.30f1 (1fb1bf06830e)
+[Subsystems] Discovering subsystems at path C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e9b)
+    Vendor:   
+    VRAM:     8098 MB
+    Driver:   31.0.101.2137
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.141 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 1.413800 ms
+[Message:   BepInEx] BepInEx 5.4.23.2 - OxygenNotIncluded (2/25/2026 10:20:13 PM)
+[Info   :   BepInEx] Running under Unity v2020.3.30.2077119
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 1 plugin to load
+[Info   :   BepInEx] Loading [Infinite Storage 1.0.0]
+[Info   :Infinite Storage] Infinite Storage mod loaded! All storage capacities set to 1,000,000 kg.
+[Message:   BepInEx] Chainloader startup complete
+[14:23:16.295] [1] [INFO] KProfiler: Start
+[14:23:16.508] [1] [INFO] Applying resolution 1920x1080 @60hz (fullscreen: True)
+[14:23:16.510] [1] [INFO] Low Res Textures? Yes
+[14:23:16.517] [1] [INFO] Date: 03/03/2026 14:23:16
+[14:23:16.519] [1] [INFO] Build: ??-622222-? (release)
+[14:23:16.524] [1] [INFO] Creating SteamManager.
+[14:23:17.448] [1] [INFO] DistributionPlatform initialized.
+[14:23:17.448] [1] [INFO] -----------------------------------------------------------
+[14:23:17.457] [1] [INFO] Build: U52-622222-SC (release)
+[14:23:17.457] [1] [INFO] -----------------------------------------------------------
+[14:23:17.457] [1] [INFO] DLC Information
+[14:23:17.463] [1] [INFO] - DLC2_ID loaded: True
+[14:23:17.463] [1] [INFO] - EXPANSION1_ID loaded: True
+[14:23:17.463] [1] [INFO] -----------------------------------------------------------
+[14:23:20.901] [1] [INFO] Loading Expansion1 assets from bundle
+[14:23:27.544] [1] [INFO] Loading DLC DLC2_ID assets from bundle
+SYSTEM INFO:
+    Platform=WindowsPlayer
+    OSname=Windows 11  (10.0.26200) 64bit
+    OSversion=10.0.26200.0
+    CPUmodel=Latitude 5401 (Dell Inc.)
+    CPUdeviceType=Desktop
+    CPUarch=AMD64
+    ProcBits=64
+    CPUcount=8
+    CPUtype=Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz
+    SystemMemoryMegs=16197
+    GPUgraphicsDeviceID=16027
+    GPUname=Intel(R) UHD Graphics 630
+    GPUgraphicsDeviceType=Direct3D11
+    GPUgraphicsDeviceVendor=Intel
+    GPUgraphicsDeviceVendorID=32902
+    GPUgraphicsDeviceVersion=Direct3D 11.0 [level 11.1]
+    GPUmemoryMegs=8098
+    GPUgraphicsMultiThreaded=False
+    GPUgraphicsShaderLevel=50
+    GPUmaxTextureSize=16384
+    GPUnpotSupport=Full
+    GPUsupportedRenderTargetCount=8
+    GPUsupports2DArrayTextures=True
+    GPUsupports3DTextures=True
+    GPUsupportsComputeShaders=True
+    GPUsupportsImageEffects=True
+    GPUsupportsInstancing=True
+    GPUsupportsRenderToCubemap=True
+    GPUsupportsShadows=True
+    GPUsupportsSparseTextures=True
+    GPUcopyTextureSupport=Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture
+    System Language=English
+[14:23:29.296] [1] [INFO] Initializing at 2026-03-03 14:23:29.296
+[14:23:29.297] [1] [INFO] Save path: C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded
+[14:23:30.502] [1] [INFO] 	ONI Multiplayer Trade has a mod.yaml with a staticID `MultiplayerTrade`, using that from now on.
+[14:23:30.514] [1] [INFO] ONI Multiplayer Trade: Successfully loaded from path 'root' with content 'DLL'.
+[14:23:30.515] [1] [INFO] Using builtin mod system.
+[14:23:30.515] [1] [INFO] Loading mod content DLL [ONI Multiplayer Trade:MultiplayerTrade] (provides DLL)
+[14:23:30.519] [1] [INFO] Loading MOD dll: MultiplayerTrade.dll
+Fallback handler could not load library C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/Mono/data-000002883BD94760.dll
+[MultiplayerTrade] Notice: Mirror.dll not found in the mod folder. Please place it in the same directory to enable networking functionality.
+[MultiplayerTrade] Mod loaded, configuration parsed.
+[14:23:30.964] [1] [INFO] Localization.Initialize!
+[14:23:30.973] [1] [INFO] 	ONI Multiplayer Trade has a mod.yaml with a staticID `MultiplayerTrade`, using that from now on.
+[14:23:30.975] [1] [INFO] ONI Multiplayer Trade: Successfully loaded from path 'root' with content 'DLL'.
+[14:23:30.976] [1] [INFO] Subscribe to mod ONI Multiplayer Trade
+[14:23:31.004] [1] [INFO] Test Data Location / docs / C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded
+[14:23:31.004] [1] [INFO] Test Data Location / local / C:\Users\ELECTRO-RIMO\AppData\Local\Klei\OxygenNotIncluded
+[14:23:31.008] [1] [INFO] Test Data Locations / C:\Users\ELECTRO-RIMO\Documents\Klei\OxygenNotIncluded\test / write True / read True / removed True
+[14:23:31.008] [1] [INFO] Test Data Locations / C:\Users\ELECTRO-RIMO\AppData\Local\Klei\OxygenNotIncluded\test / write True / read True / removed True
+[14:23:31.010] [1] [INFO] Logged into Steam with ID:76561197960271872, NAME:PLAYER
+[14:23:31.012] [1] [INFO] [Account] Requesting auth ticket from Steam
+[14:23:33.581] [8] [INFO] [Account] Error logging in: {"SecurityTxt":"https://www.klei.com/.well-known/security.txt","ErrorCode":"E_INVALID_TICKET","Error":true,"Token":"","UserID":"","AnalyticsJWT":""}
+ for ticket=575553210000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+[14:23:40.882] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: DebugPlacer
+[14:23:40.882] [1] [WARNING] Tried loading prefab with duplicate tag, ignoring: DebugPlacer
+[14:23:41.200] [1] [WARNING] Mod: Unable to add 'InterplanetaryTradeMachine' as category '0xA11EFB6E' does not exist
+[14:23:41.698] [7] [INFO] World settings reload complete!
+[14:23:46.207] [1] [WARNING] Missing Anim: [0x2C99BD69]. You may have to run Collect Anim on the Assets prefab
+[14:23:46.210] [1] [ERROR] First anim file needs to be non-null. InterplanetaryTradeMachineComplete (UnityEngine.GameObject)
+First anim file needs to be non-null. InterplanetaryTradeMachineComplete (UnityEngine.GameObject)
+[14:23:46.223] [1] [ERROR] null Exception in RegisterBuilding for type MultiplayerTradeMod.TradeMachineConfig from MultiplayerTrade 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at KAnimControllerBase.set_AnimFiles (KAnimFile[] value) [0x00046] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at BuildingLoader.Add2DComponents (BuildingDef def, UnityEngine.GameObject go, System.String initialAnimState, System.Boolean no_collider, System.Int32 layer) [0x00076] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at BuildingLoader.CreateBuildingComplete (UnityEngine.GameObject go, BuildingDef def) [0x000fe] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at BuildingConfigManager.RegisterBuilding (IBuildingConfig config) [0x000b5] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at (wrapper dynamic-method) GeneratedBuildings.DMD<GeneratedBuildings::LoadGeneratedBuildings>(System.Collections.Generic.List`1<System.Type>)
+Exception in RegisterBuilding for type MultiplayerTradeMod.TradeMachineConfig from MultiplayerTrade 
+System.NullReferenceException: Object reference not set to an instance of an object
+  at KAnimControllerBase.set_AnimFiles (KAnimFile[] value) [0x00046] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at BuildingLoader.Add2DComponents (BuildingDef def, UnityEngine.GameObject go, System.String initialAnimState, System.Boolean no_collider, System.Int32 layer) [0x00076] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at BuildingLoader.CreateBuildingComplete (UnityEngine.GameObject go, BuildingDef def) [0x000fe] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at BuildingConfigManager.RegisterBuilding (IBuildingConfig config) [0x000b5] in <b86e23fe3b43405384b0abb90493789e>:0 
+  at (wrapper dynamic-method) GeneratedBuildings.DMD<GeneratedBuildings::LoadGeneratedBuildings>(System.Collections.Generic.List`1<System.Type>)
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+
+Unloading 5595 unused Assets to reduce memory usage. Loaded Objects now: 71137.
+Total: 243.091000 ms (FindLiveObjects: 4.715600 ms CreateObjectMapping: 5.185200 ms MarkObjects: 229.269400 ms  DeleteObjects: 3.920000 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 2)
+UnloadTime: 3.696900 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 75335.
+Total: 302.639100 ms (FindLiveObjects: 4.334400 ms CreateObjectMapping: 2.913100 ms MarkObjects: 295.111700 ms  DeleteObjects: 0.279100 ms)
+
+[14:23:52.288] [1] [INFO] -- MAIN MENU -- 
+[14:23:52.551] [1] [INFO] Checking which steam branch we're on. Got: []
+[14:23:52.576] [1] [INFO] Checking which steam branch we're on. Got: []
+[14:23:52.679] [1] [INFO] Screen resolution updated, saving values to prefs: 1920x1080 @ 60, fullscreen: True
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8e0 -> priority: 1 
+  Thread -> id: e00 -> priority: 1 
+[14:23:57.526] [7] [ERROR] Fatal parse error in C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/StreamingAssets/dlc/expansion1/templates/poi/genericGravitas/poi_gift_shop.yaml
+(Line: 470, Col: 3, Idx: 8827) - (Line: 470, Col: 3, Idx: 8827): Exception during deserialization
+
+Fatal parse error in C:/Games/Oxygen.Not.Included.v622222.ALL.DLC/OxygenNotIncluded_Data/StreamingAssets/dlc/expansion1/templates/poi/genericGravitas/poi_gift_shop.yaml
+(Line: 470, Col: 3, Idx: 8827) - (Line: 470, Col: 3, Idx: 8827): Exception during deserialization
