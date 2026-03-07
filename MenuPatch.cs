@@ -1,19 +1,46 @@
+using System.Reflection;
 using HarmonyLib;
 using UnityEngine;
 using UnityEngine.UI;
 
 namespace SimpleUDPChat
 {
-    [HarmonyPatch(typeof(MainMenu), "OnPrefabInit")]
+    [HarmonyPatch]
     public class MenuPatch
     {
-        private static void Postfix(MainMenu __instance)
+        private static MethodBase TargetMethod()
         {
-            if (__instance.transform.Find("ChatButton") != null)
+            string[] menuTypeCandidates = { "MainMenu", "MainMenuScreen" };
+
+            foreach (string typeName in menuTypeCandidates)
+            {
+                var menuType = AccessTools.TypeByName(typeName);
+                if (menuType == null)
+                    continue;
+
+                var method = AccessTools.Method(menuType, "OnPrefabInit");
+                if (method != null)
+                {
+                    ChatMod.LogInfo("Patching menu type: " + typeName + ".OnPrefabInit");
+                    return method;
+                }
+            }
+
+            ChatMod.LogWarning("No compatible menu type found for chat button patch.");
+            return null;
+        }
+
+        private static void Postfix(object __instance)
+        {
+            var menuComponent = __instance as Component;
+            if (menuComponent == null)
+                return;
+
+            if (menuComponent.transform.Find("ChatButton") != null)
                 return;
 
             GameObject button = new GameObject("ChatButton");
-            button.transform.SetParent(__instance.transform, false);
+            button.transform.SetParent(menuComponent.transform, false);
 
             RectTransform rect = button.AddComponent<RectTransform>();
             rect.sizeDelta = new Vector2(220f, 42f);
@@ -35,8 +62,8 @@ namespace SimpleUDPChat
 
             GameObject textObj = new GameObject("Text");
             textObj.transform.SetParent(button.transform, false);
-
             textObj.AddComponent<CanvasRenderer>();
+
             RectTransform textRect = textObj.AddComponent<RectTransform>();
             textRect.anchorMin = Vector2.zero;
             textRect.anchorMax = Vector2.one;
